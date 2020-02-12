@@ -3,3 +3,4 @@ language: go
 script:
 - go build
 - ls -la
+- ./hello-world-golang
