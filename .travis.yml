@@ -2,4 +2,4 @@ language: go
 
 script:
 - go build
-- ./hello
+- hello
